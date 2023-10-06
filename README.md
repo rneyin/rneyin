@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rneyin
-- 👀 I’m interested in brushing up on my coding skills
-- 🌱 I’m currently learning python and SQL
+- 👀 I’m interested in brushing up on my skills
+- 🌱 I’m currently
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
